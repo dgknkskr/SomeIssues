@@ -10,8 +10,8 @@ pd.set_option('display.width', 1500)  # max table width to display
 # import pytz module for working with time zone
 import pytz
 
-account_number = 1051693512  # Hesap No
-pass1 = '3VPG27J81B'  # Şifre
+account_number = xxx  # Hesap No
+pass1 = 'pass1'  # Şifre
 server1 = 'FTMO-Demo' # Server
 mt5.initialize(login=account_number, password=pass1, server=server1)
 
